@@ -1,4 +1,4 @@
-package main
+package main //Учебный комментарий
 
 import (
 	"fmt"
